@@ -10,7 +10,7 @@ and finally
 
     make
 
-The application has the following syntax:
+To run the code, use the following syntax:
   
     ./pattern_matching p m q pattern_length experiment_runs wildcard_bool
 
