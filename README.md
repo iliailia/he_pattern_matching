@@ -7,6 +7,6 @@ The applications has the following syntax:
   
     ./pattern_matching p m q pattern_length experiment_runs wildcard_bool
 
-The following line runs the string search algorithm with the parameter set 7.12* 100 times:
+The following line runs the string search algorithm with the parameter set `7.12*` 100 times:
   
     ./pattern_matching 7 21177 320 7 100 1
