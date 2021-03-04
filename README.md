@@ -14,6 +14,6 @@ To run the code, use the following syntax
   
     ./pattern_matching p m q pattern_length experiment_runs wildcard_bool
 
-The following line performs 100 test of the string search algorithm with the parameter set `7.12*` and pattern length 7
+The following line performs 100 tests of the string search algorithm with the parameter set `7.12*` and pattern length 7
   
     ./pattern_matching 7 21177 320 7 100 1
